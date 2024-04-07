@@ -1,0 +1,46 @@
+{
+  "UM_Nurses": [
+    {
+      "nurseId": "N001",
+      "name": "Nurse A",
+      "expertiseCPTCodes": ["70553", "78608", "93458"],
+      "specialtyNames": ["Radiology", "Oncology", "Cardiology"]
+    },
+    {
+      "nurseId": "N002",
+      "name": "Nurse B",
+      "expertiseCPTCodes": ["19357", "66984"],
+      "specialtyNames": ["Plastic Surgery", "Ophthalmology"]
+    },
+    {
+      "nurseId": "N003",
+      "name": "Nurse C",
+      "expertiseCPTCodes": ["27447", "45380"],
+      "specialtyNames": ["Orthopedics", "Gastroenterology"]
+    },
+    {
+      "nurseId": "N004",
+      "name": "Nurse D",
+      "expertiseCPTCodes": ["70553", "78608"],
+      "specialtyNames": ["Radiology", "Oncology"]
+    },
+    {
+      "nurseId": "N005",
+      "name": "Nurse E",
+      "expertiseCPTCodes": ["93458", "19357"],
+      "specialtyNames": ["Cardiology", "Plastic Surgery"]
+    },
+    {
+      "nurseId": "N006",
+      "name": "Nurse F",
+      "expertiseCPTCodes": ["66984", "27447"],
+      "specialtyNames": ["Ophthalmology", "Orthopedics"]
+    },
+    {
+      "nurseId": "N007",
+      "name": "Nurse G",
+      "expertiseCPTCodes": ["45380", "70553"],
+      "specialtyNames": ["Gastroenterology", "Radiology"]
+    }
+  ]
+}

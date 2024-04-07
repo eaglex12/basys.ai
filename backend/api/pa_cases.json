@@ -1,0 +1,805 @@
+
+{
+  "PA_Cases": [
+    {
+      "CPTCode": "70553",
+      "SpecialtyName": "Radiology",
+      "CaseName": "Rule out brain tumor",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "70553",
+      "SpecialtyName": "Radiology",
+      "CaseName": "Evaluate for multiple sclerosis",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T12:15:00Z"
+    },
+    {
+      "CPTCode": "70553",
+      "SpecialtyName": "Radiology",
+      "CaseName": "Follow-up on benign brain lesion",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T12:30:00Z"
+    },
+    {
+      "CPTCode": "70553",
+      "SpecialtyName": "Radiology",
+      "CaseName": "Pre-operative assessment for brain tumor",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T12:45:00Z"
+    },
+    {
+      "CPTCode": "70553",
+      "SpecialtyName": "Radiology",
+      "CaseName": "Headache with focal neurological findings",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T13:00:00Z"
+    },
+    {
+      "CPTCode": "70553",
+      "SpecialtyName": "Radiology",
+      "CaseName": "Assessment of vascular abnormalities post-stroke",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T13:15:00Z"
+    },
+    {
+      "CPTCode": "70553",
+      "SpecialtyName": "Radiology",
+      "CaseName": "Evaluation of pituitary gland",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T13:30:00Z"
+    },
+    {
+      "CPTCode": "70553",
+      "SpecialtyName": "Radiology",
+      "CaseName": "Repeated MRI for chronic headache without clinical change",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T13:45:00Z"
+    },
+    {
+      "CPTCode": "70553",
+      "SpecialtyName": "Radiology",
+      "CaseName": "Detailed assessment of congenital brain malformations",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T14:00:00Z"
+    },
+    {
+      "CPTCode": "70553",
+      "SpecialtyName": "Radiology",
+      "CaseName": "Advanced imaging for traumatic brain injury",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T14:15:00Z"
+    },
+    {
+      "CPTCode": "93458",
+      "SpecialtyName": "Cardiology",
+      "CaseName": "Diagnostic evaluation for chest pain with positive stress test",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T14:30:00Z"
+    },
+    {
+      "CPTCode": "93458",
+      "SpecialtyName": "Cardiology",
+      "CaseName": "Pre-operative assessment for high-risk patients",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T14:45:00Z"
+    },
+    {
+      "CPTCode": "93458",
+      "SpecialtyName": "Cardiology",
+      "CaseName": "Evaluation of known coronary artery disease",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T15:00:00Z"
+    },
+    {
+      "CPTCode": "93458",
+      "SpecialtyName": "Cardiology",
+      "CaseName": "Follow-up on previously placed stents",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T15:15:00Z"
+    },
+    {
+      "CPTCode": "93458",
+      "SpecialtyName": "Cardiology",
+      "CaseName": "Assessment before chemotherapy",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T15:30:00Z"
+    },
+    {
+      "CPTCode": "93458",
+      "SpecialtyName": "Cardiology",
+      "CaseName": "Investigation of unexplained heart failure",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T15:45:00Z"
+    },
+    {
+      "CPTCode": "93458",
+      "SpecialtyName": "Cardiology",
+      "CaseName": "Diagnostic for suspected congenital heart disease",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T16:00:00Z"
+    },
+    {
+      "CPTCode": "93458",
+      "SpecialtyName": "Cardiology",
+      "CaseName": "Emergency catheterization following a heart attack",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T16:15:00Z"
+    },
+    {
+      "CPTCode": "93458",
+      "SpecialtyName": "Cardiology",
+      "CaseName": "Complex evaluation of coronary artery anomalies",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T16:30:00Z"
+    },
+    {
+      "CPTCode": "93458",
+      "SpecialtyName": "Cardiology",
+      "CaseName": "Interventional catheterization with multiple stent placements",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T16:45:00Z"
+    },
+    {
+      "CPTCode": "27447",
+      "SpecialtyName": "Orthopedics",
+      "CaseName": "Primary total knee replacement for severe osteoarthritis",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "27447",
+      "SpecialtyName": "Orthopedics",
+      "CaseName": "Knee replacement for chronic rheumatoid arthritis",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T12:15:00Z"
+    },
+    {
+      "CPTCode": "27447",
+      "SpecialtyName": "Orthopedics",
+      "CaseName": "Secondary knee replacement due to previous implant failure",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T12:30:00Z"
+    },
+    {
+      "CPTCode": "27447",
+      "SpecialtyName": "Orthopedics",
+      "CaseName": "Primary arthroplasty for avascular necrosis",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T12:45:00Z"
+    },
+    {
+      "CPTCode": "27447",
+      "SpecialtyName": "Orthopedics",
+      "CaseName": "Knee replacement for post-traumatic arthritis",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T13:00:00Z"
+    },
+    {
+      "CPTCode": "27447",
+      "SpecialtyName": "Orthopedics",
+      "CaseName": "Replacement for severe degenerative joint disease",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T13:15:00Z"
+    },
+    {
+      "CPTCode": "27447",
+      "SpecialtyName": "Orthopedics",
+      "CaseName": "Primary replacement in patients with disabling knee joint pain",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T13:30:00Z"
+    },
+    {
+      "CPTCode": "27447",
+      "SpecialtyName": "Orthopedics",
+      "CaseName": "Revision knee arthroplasty with extensive bone loss",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T13:45:00Z"
+    },
+    {
+      "CPTCode": "27447",
+      "SpecialtyName": "Orthopedics",
+      "CaseName": "Knee replacement in a patient with a current infection",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T14:00:00Z"
+    },
+    {
+      "CPTCode": "27447",
+      "SpecialtyName": "Orthopedics",
+      "CaseName": "Complex primary arthroplasty with significant pre-existing deformity",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T14:15:00Z"
+    },
+    {
+      "CPTCode": "78608",
+      "SpecialtyName": "Oncology",
+      "CaseName": "Initial staging of newly diagnosed cancer",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T14:30:00Z"
+    },
+    {
+      "CPTCode": "78608",
+      "SpecialtyName": "Oncology",
+      "CaseName": "Surveillance for recurrence of previously treated cancer",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T14:45:00Z"
+    },
+    {
+      "CPTCode": "78608",
+      "SpecialtyName": "Oncology",
+      "CaseName": "Assessment of response to completed cancer treatment",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T15:00:00Z"
+    },
+    {
+      "CPTCode": "78608",
+      "SpecialtyName": "Oncology",
+      "CaseName": "Evaluation of cancer of unknown primary origin",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T15:15:00Z"
+    },
+    {
+      "CPTCode": "78608",
+      "SpecialtyName": "Oncology",
+      "CaseName": "Pre-surgical planning for cancer surgery",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T15:30:00Z"
+    },
+    {
+      "CPTCode": "78608",
+      "SpecialtyName": "Oncology",
+      "CaseName": "Assessing metastasis in a single organ system",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T15:45:00Z"
+    },
+    {
+      "CPTCode": "78608",
+      "SpecialtyName": "Oncology",
+      "CaseName": "Monitoring known tumor markers elevation",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T16:00:00Z"
+    },
+    {
+      "CPTCode": "78608",
+      "SpecialtyName": "Oncology",
+      "CaseName": "Complex case with multiple primary cancers requiring staging",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T16:15:00Z"
+    },
+    {
+      "CPTCode": "78608",
+      "SpecialtyName": "Oncology",
+      "CaseName": "Evaluation of treatment options in metastatic cancer",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T16:30:00Z"
+    },
+    {
+      "CPTCode": "78608",
+      "SpecialtyName": "Oncology",
+      "CaseName": "PET scan for aggressive cancer types with known rapid progression",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T16:45:00Z"
+    },
+    {
+      "CPTCode": "45380",
+      "SpecialtyName": "Gastroenterology",
+      "CaseName": "Screening colonoscopy in an asymptomatic patient",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T17:00:00Z"
+    },
+    {
+      "CPTCode": "45380",
+      "SpecialtyName": "Gastroenterology",
+      "CaseName": "Colonoscopy for iron deficiency anemia",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T17:15:00Z"
+    },
+    {
+      "CPTCode": "45380",
+      "SpecialtyName": "Gastroenterology",
+      "CaseName": "Surveillance colonoscopy in a patient with previous polyps",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T17:30:00Z"
+    },
+    {
+      "CPTCode": "45380",
+      "SpecialtyName": "Gastroenterology",
+      "CaseName": "Colonoscopy for chronic diarrhea",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T17:45:00Z"
+    },
+    {
+      "CPTCode": "45380",
+      "SpecialtyName": "Gastroenterology",
+      "CaseName": "Evaluation of rectal bleeding",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T18:00:00Z"
+    },
+    {
+      "CPTCode": "45380",
+      "SpecialtyName": "Gastroenterology",
+      "CaseName": "Colonoscopy for family history of colon cancer",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T18:15:00Z"
+    },
+    {
+      "CPTCode": "45380",
+      "SpecialtyName": "Gastroenterology",
+      "CaseName": "Surveillance colonoscopy in a patient with IBD",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T18:30:00Z"
+    },
+    {
+      "CPTCode": "45380",
+      "SpecialtyName": "Gastroenterology",
+      "CaseName": "Complex case with suspected gastrointestinal bleeding",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T18:45:00Z"
+    },
+    {
+      "CPTCode": "45380",
+      "SpecialtyName": "Gastroenterology",
+      "CaseName": "Colonoscopy in a patient with acute diverticulitis",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T19:00:00Z"
+    },
+    {
+      "CPTCode": "45380",
+      "SpecialtyName": "Gastroenterology",
+      "CaseName": "Evaluation of complex polyps with prior incomplete resection",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T19:15:00Z"
+    },
+    {
+      "CPTCode": "19357",
+      "SpecialtyName": "Plastic Surgery",
+      "CaseName": "Immediate breast reconstruction post mastectomy",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T19:30:00Z"
+    },
+    {
+      "CPTCode": "19357",
+      "SpecialtyName": "Plastic Surgery",
+      "CaseName": "Delayed breast reconstruction post mastectomy",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T19:45:00Z"
+    },
+    {
+      "CPTCode": "19357",
+      "SpecialtyName": "Plastic Surgery",
+      "CaseName": "Breast reconstruction with tissue expander for congenital deformity",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T20:00:00Z"
+    },
+    {
+      "CPTCode": "19357",
+      "SpecialtyName": "Plastic Surgery",
+      "CaseName": "Reconstruction following lumpectomy",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T20:15:00Z"
+    },
+    {
+      "CPTCode": "19357",
+      "SpecialtyName": "Plastic Surgery",
+      "CaseName": "Breast reconstruction for asymmetry correction",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T20:30:00Z"
+    },
+    {
+      "CPTCode": "19357",
+      "SpecialtyName": "Plastic Surgery",
+      "CaseName": "Breast reconstruction post radiation therapy",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T20:45:00Z"
+    },
+    {
+      "CPTCode": "19357",
+      "SpecialtyName": "Plastic Surgery",
+      "CaseName": "Reconstruction after cancer recurrence",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T21:00:00Z"
+    },
+    {
+      "CPTCode": "19357",
+      "SpecialtyName": "Plastic Surgery",
+      "CaseName": "Complex reconstruction with autologous tissue",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T21:15:00Z"
+    },
+    {
+      "CPTCode": "19357",
+      "SpecialtyName": "Plastic Surgery",
+      "CaseName": "Reconstruction with flap complications",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T21:30:00Z"
+    },
+    {
+      "CPTCode": "19357",
+      "SpecialtyName": "Plastic Surgery",
+      "CaseName": "Breast reconstruction in patients with significant comorbidities",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T21:45:00Z"
+    },
+    {
+      "CPTCode": "95911",
+      "SpecialtyName": "Neurology",
+      "CaseName": "Carpal tunnel syndrome diagnosis",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T22:00:00Z"
+    },
+    {
+      "CPTCode": "95911",
+      "SpecialtyName": "Neurology",
+      "CaseName": "Peripheral neuropathy evaluation",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T22:15:00Z"
+    },
+    {
+      "CPTCode": "95911",
+      "SpecialtyName": "Neurology",
+      "CaseName": "Diagnosing radiculopathy",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T22:30:00Z"
+    },
+    {
+      "CPTCode": "95911",
+      "SpecialtyName": "Neurology",
+      "CaseName": "Follow-up study for chronic neuropathic condition",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T22:45:00Z"
+    },
+    {
+      "CPTCode": "95911",
+      "SpecialtyName": "Neurology",
+      "CaseName": "Pre-surgical assessment for nerve compression syndromes",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T23:00:00Z"
+    },
+    {
+      "CPTCode": "95911",
+      "SpecialtyName": "Neurology",
+      "CaseName": "Evaluation of suspected motor neuron disease",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T23:15:00Z"
+    },
+    {
+      "CPTCode": "95911",
+      "SpecialtyName": "Neurology",
+      "CaseName": "Confirmation of clinical diagnosis of muscle disease",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T23:30:00Z"
+    },
+    {
+      "CPTCode": "95911",
+      "SpecialtyName": "Neurology",
+      "CaseName": "Complex case with diffuse peripheral nerve injury",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T23:45:00Z"
+    },
+    {
+      "CPTCode": "95911",
+      "SpecialtyName": "Neurology",
+      "CaseName": "Advanced diagnostics for multifocal motor neuropathy",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-06T00:00:00Z"
+    },
+    {
+      "CPTCode": "95911",
+      "SpecialtyName": "Neurology",
+      "CaseName": "Extensive evaluation for systemic diseases affecting nerves",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-06T00:15:00Z"
+    },
+    {
+      "CPTCode": "17311",
+      "SpecialtyName": "Dermatology",
+      "CaseName": "Mohs surgery for basal cell carcinoma on the face",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-06T00:30:00Z"
+    },
+    {
+      "CPTCode": "17311",
+      "SpecialtyName": "Dermatology",
+      "CaseName": "Squamous cell carcinoma removal on the neck",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-06T00:45:00Z"
+    },
+    {
+      "CPTCode": "17311",
+      "SpecialtyName": "Dermatology",
+      "CaseName": "Removal of melanoma in situ on the ear",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-06T01:00:00Z"
+    },
+    {
+      "CPTCode": "17311",
+      "SpecialtyName": "Dermatology",
+      "CaseName": "Recurrent basal cell carcinoma after previous treatment",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-06T01:15:00Z"
+    },
+    {
+      "CPTCode": "17311",
+      "SpecialtyName": "Dermatology",
+      "CaseName": "Mohs surgery for skin cancer on the scalp",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-06T01:30:00Z"
+    },
+    {
+      "CPTCode": "17311",
+      "SpecialtyName": "Dermatology",
+      "CaseName": "Mohs for carcinoma in high-risk cosmetic areas",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-06T01:45:00Z"
+    },
+    {
+      "CPTCode": "17311",
+      "SpecialtyName": "Dermatology",
+      "CaseName": "Removal of aggressive skin cancer variants",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-06T02:00:00Z"
+    },
+    {
+      "CPTCode": "17311",
+      "SpecialtyName": "Dermatology",
+      "CaseName": "Mohs for skin cancer with perineural invasion",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-06T02:15:00Z"
+    },
+    {
+      "CPTCode": "17311",
+      "SpecialtyName": "Dermatology",
+      "CaseName": "Mohs surgery for recurrent aggressive skin cancer",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-06T02:30:00Z"
+    },
+    {
+      "CPTCode": "17311",
+      "SpecialtyName": "Dermatology",
+      "CaseName": "Complex Mohs surgery requiring extensive reconstruction",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-06T02:45:00Z"
+    },
+    {
+      "CPTCode": "90870",
+      "SpecialtyName": "Psychiatry",
+      "CaseName": "ECT for severe major depressive disorder unresponsive to medication",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "90870",
+      "SpecialtyName": "Psychiatry",
+      "CaseName": "Treatment of acute mania when medication is not tolerated",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "90870",
+      "SpecialtyName": "Psychiatry",
+      "CaseName": "ECT for catatonia resistant to medication",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "90870",
+      "SpecialtyName": "Psychiatry",
+      "CaseName": "Maintenance ECT for bipolar disorder",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "90870",
+      "SpecialtyName": "Psychiatry",
+      "CaseName": "ECT for schizophrenia with severe depressive episodes",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "90870",
+      "SpecialtyName": "Psychiatry",
+      "CaseName": "Rapid stabilization of acute suicidal ideation",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "90870",
+      "SpecialtyName": "Psychiatry",
+      "CaseName": "ECT for severe psychotic depression",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "90870",
+      "SpecialtyName": "Psychiatry",
+      "CaseName": "ECT in elderly patients with significant comorbidities",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "90870",
+      "SpecialtyName": "Psychiatry",
+      "CaseName": "Use of ECT in patients with a history of brain injury",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "90870",
+      "SpecialtyName": "Psychiatry",
+      "CaseName": "ECT for treatment-resistant schizophrenia",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "66984",
+      "SpecialtyName": "Ophthalmology",
+      "CaseName": "Cataract extraction with intraocular lens implant",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "66984",
+      "SpecialtyName": "Ophthalmology",
+      "CaseName": "Cataract surgery in patients with diabetes",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "66984",
+      "SpecialtyName": "Ophthalmology",
+      "CaseName": "Secondary cataract removal",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "66984",
+      "SpecialtyName": "Ophthalmology",
+      "CaseName": "Cataract surgery with astigmatism correction",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "66984",
+      "SpecialtyName": "Ophthalmology",
+      "CaseName": "Bilateral cataract surgery",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "66984",
+      "SpecialtyName": "Ophthalmology",
+      "CaseName": "Cataract extraction in patients with glaucoma",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "66984",
+      "SpecialtyName": "Ophthalmology",
+      "CaseName": "Cataract surgery in patients with previous eye surgery",
+      "SimpleOrComplex": "Simple",
+      "UrgentOrRoutine": "Routine",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "66984",
+      "SpecialtyName": "Ophthalmology",
+      "CaseName": "Complex cataract surgery with significant comorbid conditions",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "66984",
+      "SpecialtyName": "Ophthalmology",
+      "CaseName": "Cataract surgery in pediatric patients",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    },
+    {
+      "CPTCode": "66984",
+      "SpecialtyName": "Ophthalmology",
+      "CaseName": "Cataract extraction in patients with uveitis",
+      "SimpleOrComplex": "Complex",
+      "UrgentOrRoutine": "Urgent",
+      "submissionTime": "2024-04-05T12:00:00Z"
+    }
+  ]
+}
